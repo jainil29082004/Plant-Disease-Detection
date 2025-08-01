@@ -8,3 +8,6 @@ This repository implements a plant disease detection pipeline using self-supervi
 - Training, validation, and test splits
 - Evaluation metrics and saved model weights
 
+# Weights
+
+Linh for weights is [here](https://drive.google.com/file/d/1TGmlF6bWaSKEq8FpmbvEPaoIKDWF6fLS/view?usp=sharing)
